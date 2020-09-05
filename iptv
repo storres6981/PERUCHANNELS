@@ -20,18 +20,13 @@ http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/7200.m3u8?checkedby:hlsc
 http://ipvideo.online:2082/live/TvLatinoPs/2020/53860.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="PE" tvg-logo="https://bestcableperu.com.pe/img/logo/logo2.png" group-title="Sport",BEST CABLE SPORTS
 http://ipvideo.online:2082/live/TvLatinoPs/2020/54964.m3u8?checkedby:hlscat.com
+
 #EXTINF:0 tvg-country="PE" tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="Undefined",BHTV
 http://2hardteck.com:25461/091069478a/vke1ZMk4xz/56299?checkedby:hlscat.com
+
 #EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="Undefined",BHtv
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="Undefined",BHtv
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="Undefined",BHtv
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="Undefined",BHtv
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="Undefined",BHtv *
-http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/11371.m3u8?checkedby:hlscat.com
+
 #EXTINF:0 tvg-country="PE" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Bethel-Televisi%C3%B3n-en-vivo-Online.png" group-title="Undefined",Bethel TV *
 http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/11370.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="PE" tvg-logo="https://3.bp.blogspot.com/-YMsjEYu6-Cc/WXKDJJYUCII/AAAAAAAAAbE/rZDZu-lbhhUWygtUYIIgLadQTNvVNhQLACPcBGAYYCw/s1600/Programaci%25C3%25B3n%2BCanal%2BN.jpg" group-title="Undefined",CANAL N
