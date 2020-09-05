@@ -44,14 +44,10 @@ http://ipvideo.online:2082/live/TvLatinoPs/2020/53857.m3u8?checkedby:hlscat.com
 http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/1500.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="Undefined",Cultura 24 TV
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/ki7ZvDD.png" group-title="Undefined",Cultura 24 TV
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="Undefined",Cultura 24 TV
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8?checkedby:hlscat.com
+
 #EXTINF:0 tvg-country="PE" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2020/01/EXITOSA-LOGO-CON-EFECTO.png" group-title="Undefined",EXITOSA HD
-http://ipvideo.online:2082/live/TvLatinoPs/2020/53855.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2020/01/EXITOSA-LOGO-CON-EFECTO.png" group-title="Undefined",EXITOSA HD
-http://2hardteck.com:25461/091069478a/vke1ZMk4xz/67068?checkedby:hlscat.com
+https://cu.onliv3.com/exitosa/
+
 #EXTINF:0 tvg-country="PE" tvg-logo="https://www.freeetv.com/images/reydddd/flat.png" group-title="Undefined",Frecuencia Latina
 https://live-normal-internacional-hls.latina.pe/egress/bhandler/cialatina/live/manifest.m3u8?nva=1607088502&ttl=432000&ip=71.187.48.25&hash=0862b5f6680630b60498f
 #EXTINF:0 tvg-country="PE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Global_TV_2019.png" group-title="Undefined",GLOBAL
