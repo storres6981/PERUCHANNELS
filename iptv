@@ -76,14 +76,6 @@ http://ipvideo.online:2082/live/TvLatinoPs/2020/53854.m3u8?checkedby:hlscat.com
 http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/1545.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/FI1Hd4E.png" group-title="Undefined",IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Frecuencia_Latina.svg/1024px-Frecuencia_Latina.svg.png" group-title="Undefined",LATINA
-http://ipvideo.online:2082/live/TvLatinoPs/2020/53845.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Frecuencia_Latina.svg/1024px-Frecuencia_Latina.svg.png" group-title="Undefined",LATINA *
-http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/11382.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Frecuencia_Latina.svg/1024px-Frecuencia_Latina.svg.png" group-title="Undefined",LATINA HD S1
-http://2hardteck.com:25461/091069478a/vke1ZMk4xz/66394?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Frecuencia_Latina.svg/1024px-Frecuencia_Latina.svg.png" group-title="Undefined",LATINA S2
-http://2hardteck.com:25461/091069478a/vke1ZMk4xz/68979?checkedby:hlscat.com
 #EXTINF:0 tvg-country="PE" tvg-logo="https://cdn.mitvstatic.com/channels/pe_la-tele_m.png" group-title="Undefined",La Tele
 http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/1547.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="PE" tvg-logo="https://yt3.ggpht.com/a/AATXAJxxZPLpbJwnZw9WZ_iLfZm8RG2s_Qr3xn4MZncldg=s900-c-k-c0xffffffff-no-rj-mo" group-title="Sport",MOVISTAR DEPORTES
