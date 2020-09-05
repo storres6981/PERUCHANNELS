@@ -114,8 +114,10 @@ http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/1541.m3u8?checkedby:hlsc
 http://2hardteck.com:25461/091069478a/vke1ZMk4xz/56301?checkedby:hlscat.com
 #EXTINF:0 tvg-country="PE" tvg-logo="https://www.freeetv.com/images/02_logo/rpp_noticias_peru.jpg" group-title="Undefined",RPP HD *
 http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/11392.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/tvperu_avatar.png" group-title="Undefined",TV PERU HD
+
+#EXTINF:0 tvg-country="PE" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/tvperu_avatar.png" group-title="News",TV PERU HD
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:0 tvg-country="PE" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/tvperu_avatar.png" group-title="News",TV PERU NOTICIAS
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:0 tvg-country="PE" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/tvperu_avatar.png" group-title="Undefined",TV PERU NOTICIAS
-http://2hardteck.com:25461/091069478a/vke1ZMk4xz/56297?checkedby:hlscat.com
 
