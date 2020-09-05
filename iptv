@@ -117,6 +117,9 @@ http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/11392.m3u8?checkedby:hls
 #EXTINF:0 tvg-country="PE" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/tvperu_avatar.png" group-title="TV & News",TV PERU HD
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 
-#EXTINF:0 tvg-country="PE" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/tvperu_avatar.png" group-title="News",TV PERU NOTICIAS
+#EXTINF:0 tvg-country="PE" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/tvperu_avatar.png" group-title="Music Videos",TV PERU NOTICIAS
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:0 tvg-country="PE" tvg-logo="https://www.nicepng.com/maxp/u2w7w7o0a9r5a9o0/" group-title="News",Top Latino TV
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w1195540849.m3u8
 
