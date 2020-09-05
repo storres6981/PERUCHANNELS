@@ -8,8 +8,10 @@ http://ipvideo.online:2082/live/TvLatinoPs/2020/53850.m3u8?checkedby:hlscat.com
 http://2hardteck.com:25461/091069478a/vke1ZMk4xz/56291?checkedby:hlscat.com
 #EXTINF:0 tvg-country="PE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/f1539aa6379bb690624231f4aadbd62d.png" group-title="Undefined",ANT TV *
 http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/11368.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/31/ATV_2008.svg/revision/latest/scale-to-width-down/340?cb=20200105022218" group-title="Undefined",ATV
-http://2hardteck.com:25461/091069478a/vke1ZMk4xz/9233?checkedby:hlscat.com
+
+#EXTINF:0 tvg-country="PE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/31/ATV_2008.svg/revision/latest/scale-to-width-down/340?cb=20200105022218" group-title="TV & News",ATV +
+https%3A%2F%2Fpe-atv-atv-mas-live.ned.media%2Fatv%2Fsmil%3Aatv-mas.smil%2Fplaylist.m3u8
+
 #EXTINF:0 tvg-country="PE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/31/ATV_2008.svg/revision/latest/scale-to-width-down/340?cb=20200105022218" group-title="Undefined",ATV
 http://ipvideo.online:2082/live/TvLatinoPs/2020/53847.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/5j8Jupe.jpg" group-title="Undefined",América TV HD
