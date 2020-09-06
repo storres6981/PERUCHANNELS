@@ -1,23 +1,21 @@
 #EXTM3U
 #PLAYLIST:hlscat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/5j8Jupe.jpg" group-title="Undefined",AMERICA HD S2
-http://2hardteck.com:25461/091069478a/vke1ZMk4xz/68978?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/5j8Jupe.jpg" group-title="Undefined",AMERICA TV FHD
-http://ipvideo.online:2082/live/TvLatinoPs/2020/53850.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/5j8Jupe.jpg" group-title="Undefined",AMERICA TV S1
-http://2hardteck.com:25461/091069478a/vke1ZMk4xz/56291?checkedby:hlscat.com
+
 #EXTINF:0 tvg-country="PE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/f1539aa6379bb690624231f4aadbd62d.png" group-title="Undefined",ANT TV *
 http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/11368.m3u8?checkedby:hlscat.com
 
 #EXTINF:0 tvg-country="PE" tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="TV & News",ATV +
 https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk5NDQ0NjgyLCJzZXNzaW9uIjoiNzEuMTg3LjQ4LjI1Iiwid2hpdGVsaXN0IjpbIjcxLjE4Ny40OC4yNSJdfSwic2lnbmF0dXJlIjoiMGQzZDY0NjQ3ZGY2MGYxOWRkMGM2MWUwYWQ0YWFlY2IwYTkyMmY3YiJ9
 
-#EXTINF:0 tvg-country="PE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/31/ATV_2008.svg/revision/latest/scale-to-width-down/340?cb=20200105022218" group-title="Undefined",ATV
+#EXTINF:0 tvg-country="PE" tvg-logo="https://w7.pngwing.com/pngs/809/82/png-transparent-atv-wikimedia-commons-television-channel-movistar-tv-1999-television-text-logo.png" group-title="Undefined",ATV
 http://ipvideo.online:2082/live/TvLatinoPs/2020/53847.m3u8?checkedby:hlscat.com
+
 #EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/5j8Jupe.jpg" group-title="Undefined",América TV HD
 http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/7200.m3u8?checkedby:hlscat.com
+
 #EXTINF:0 tvg-country="PE" tvg-logo="https://bestcableperu.com.pe/img/logo/logo2.png" group-title="Undefined",BEST CABLE MUSIC
 http://ipvideo.online:2082/live/TvLatinoPs/2020/53860.m3u8?checkedby:hlscat.com
+
 #EXTINF:0 tvg-country="PE" tvg-logo="https://bestcableperu.com.pe/img/logo/logo2.png" group-title="Sport",BEST CABLE SPORTS
 http://ipvideo.online:2082/live/TvLatinoPs/2020/54964.m3u8?checkedby:hlscat.com
 
@@ -29,14 +27,19 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8?checkedby:
 
 #EXTINF:0 tvg-country="PE" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Bethel-Televisi%C3%B3n-en-vivo-Online.png" group-title="Undefined",Bethel TV *
 http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/11370.m3u8?checkedby:hlscat.com
+
 #EXTINF:0 tvg-country="PE" tvg-logo="https://3.bp.blogspot.com/-YMsjEYu6-Cc/WXKDJJYUCII/AAAAAAAAAbE/rZDZu-lbhhUWygtUYIIgLadQTNvVNhQLACPcBGAYYCw/s1600/Programaci%25C3%25B3n%2BCanal%2BN.jpg" group-title="Undefined",CANAL N
 http://ipvideo.online:2082/live/TvLatinoPs/2020/53859.m3u8?checkedby:hlscat.com
+
 #EXTINF:0 tvg-country="PE" tvg-logo="https://3.bp.blogspot.com/-YMsjEYu6-Cc/WXKDJJYUCII/AAAAAAAAAbE/rZDZu-lbhhUWygtUYIIgLadQTNvVNhQLACPcBGAYYCw/s1600/Programaci%25C3%25B3n%2BCanal%2BN.jpg" group-title="Undefined",CANAL N S1
 http://2hardteck.com:25461/091069478a/vke1ZMk4xz/56302?checkedby:hlscat.com
+
 #EXTINF:0 tvg-country="PE" tvg-logo="https://3.bp.blogspot.com/-gJA5GsE1SkE/WXKDJA_KIXI/AAAAAAAAAbE/iwXdrHnVWZEbjH5gK7f-w2WI7kEShulsQCPcBGAYYCw/s1600/Programaci%25C3%25B3n%2BCMD%2BPer%25C3%25BA.jpg" group-title="Undefined",CMD *
 http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/11375.m3u8?checkedby:hlscat.com
+
 #EXTINF:0 tvg-country="PE" tvg-logo="https://lh3.googleusercontent.com/TvYlnR5lDq_lRWfRwjpKbe2XyIlvO_PH-uq6QfawhC_LcL6urmCX_EbW885syyvohQ=s200" group-title="Undefined",CUMBIA TV
 http://ipvideo.online:2082/live/TvLatinoPs/2020/53857.m3u8?checkedby:hlscat.com
+
 #EXTINF:0 tvg-country="PE" tvg-logo="https://3.bp.blogspot.com/-YMsjEYu6-Cc/WXKDJJYUCII/AAAAAAAAAbE/rZDZu-lbhhUWygtUYIIgLadQTNvVNhQLACPcBGAYYCw/s1600/Programaci%25C3%25B3n%2BCanal%2BN.jpg" group-title="Undefined",Canal N
 http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/1500.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="Undefined",Cultura 24 TV
