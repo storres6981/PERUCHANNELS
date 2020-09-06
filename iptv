@@ -44,7 +44,7 @@ https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w119554084
 http://167.114.116.212:1935/tvmb/turbomix/chunklist_w726711575.m3u8
 
 #EXTINF:0 tvg-country="PE" tvg-logo="https://i.ytimg.com/vi/U98AuOr2vkM/maxresdefault.jpg" group-title="TV",Mega TV Arequipa *
-https://cp.sradiotv.com:1936/Stream/Stream/chunklist_w1721793660.m3u8
+https://cp.sradiotv.com:1936/Stream/Stream/chunklist_w1721793660.m3u8?checkedby:hlscat.com
 
 #EXTINF:0 tvg-country="PE" tvg-logo="http://tvtolive.com/wp-content/uploads/JN-19-tvtolive.com_.jpg" group-title="TV",JN  19 TV *
 https://livestreamingperu.com:8081/diostv/tracks-v1a1/mono.m3u8
