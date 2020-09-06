@@ -76,10 +76,10 @@ http://uruguayiptv.com:25461/6688/6688/66395
 #EXTINF:0 tvg-country="PE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Global_2010.svg/revision/latest/scale-to-width-down/340?cb=20200124172136" group-title="TV",Global
 http://uruguayiptv.com:25461/6688/6688/56294
 
-#EXTINF:-1 tvg-id="pe" tvg-name="PERU | RPP" tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/938_1.png" group-title="PERU",PERU | RPP
+#EXTINF:-1 tvg-id="pe" tvg-name="PERU | RPP" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/RPP_2014.svg/revision/latest/scale-to-width-down/340?cb=20200502201708" group-title="PERU",PERU | RPP
 http://uruguayiptv.com:25461/6688/6688/56301
 
-#EXTINF:-1 tvg-id="" tvg-name="PERU | CANAL N S1" tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/939_1.png" group-title="PERU",PERU | CANAL N S1
+#EXTINF:-1 tvg-id="" tvg-name="PERU | CANAL N S1" tvg-logo="https://3.bp.blogspot.com/-YMsjEYu6-Cc/WXKDJJYUCII/AAAAAAAAAbE/rZDZu-lbhhUWygtUYIIgLadQTNvVNhQLACPcBGAYYCw/s1600/Programaci%25C3%25B3n%2BCanal%2BN.jpg" group-title="PERU",PERU | CANAL N S1
 http://uruguayiptv.com:25461/6688/6688/56302
 
 #EXTINF:-1 tvg-id="" tvg-name="PERU | PERU MAGICO" tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/908_1.png" group-title="PERU",PERU | PERU MAGICO
@@ -88,13 +88,13 @@ http://uruguayiptv.com:25461/6688/6688/56296
 #EXTINF:-1 tvg-id="" tvg-name="PERU | MOVISTAR DEPORTES " tvg-logo="" group-title="PERU",PERU | MOVISTAR DEPORTES 
 http://uruguayiptv.com:25461/6688/6688/9222
 
-#EXTINF:-1 tvg-id="" tvg-name="PERU: LA TELE" tvg-logo="" group-title="PERU",PERU: LA TELE
+#EXTINF:-1 tvg-id="" tvg-name="PERU: LA TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/La_tele_peru_2020.png/1200px-La_tele_peru_2020.png" group-title="PERU",PERU: LA TELE
 http://uruguayiptv.com:25461/6688/6688/70297
 
 #EXTINF:-1 tvg-id="goltv.pe" tvg-name="PERU | GOL PERU SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/goltv_latinoamerica.png" group-title="PERU",PERU | GOL PERU SD
 http://uruguayiptv.com:25461/6688/6688/11433
 
-#EXTINF:-1 tvg-id="" tvg-name="MIX: CUMBIA PERUANA DEL RECUERDO" tvg-logo="" group-title="PERU",MIX: CUMBIA PERUANA DEL RECUERDO
+#EXTINF:-1 tvg-id="" tvg-name="MIX: CUMBIA PERUANA DEL RECUERDO" tvg-logo="https://i.ytimg.com/vi/-GT2Dp62-Cc/sddefault.jpg" group-title="PERU",MIX: CUMBIA PERUANA DEL RECUERDO
 http://uruguayiptv.com:25461/6688/6688/70308
 
 #EXTINF:-1 tvg-id="" tvg-name="PERU | LATINA HD S1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo-latina-noticias.png" group-title="PERU",PERU | LATINA HD S1
