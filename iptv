@@ -37,11 +37,6 @@ https://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8?checkedby:hl
 #EXTINF:0 tvg-country="PE" tvg-logo="https://www.peru-vision.com/media/zoo/images/panamericana-tv-logo_0a21ca2777064e95d8b8d7e00d5d4e4d.jpg" group-title="TV & News",PANAMERICANA HD *
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:0 tvg-country="PE" tvg-logo="https://www.freeetv.com/images/02_logo/rpp_noticias_peru.jpg" group-title="Undefined",RPP
-http://2hardteck.com:25461/091069478a/vke1ZMk4xz/56301?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PE" tvg-logo="https://www.freeetv.com/images/02_logo/rpp_noticias_peru.jpg" group-title="Undefined",RPP HD *
-http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/11392.m3u8?checkedby:hlscat.com
-
 #EXTINF:0 tvg-country="PE" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/tvperu_avatar.png" group-title="TV & News",TV PERU HD *
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 
