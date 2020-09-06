@@ -146,3 +146,12 @@ https://hddn00.skylinewebcams.com/live.m3u8
 
 #EXTINF:0 tvg-country="PE" tvg-logo="http://belcekiz.com/wp-content/uploads/2018/01/live-cam.png" group-title="Live Cams",Cocachimba Peru
 https://hddn00.skylinewebcams.com/live.m3u8
+
+#EXTINF:0 tvg-country="PE" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9b8197406117e6654ab034d1e2573108.png" group-title="Music",Vision TV Musica
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/chunklist_w1324683546.m3u8
+
+#EXTINF:0 tvg-country="PE" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d1e3362b4261afb6c04e848c156dd89.png" group-title="Music",Retro Plus TV
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w380787135.m3u8
+
+#EXTINF:0 tvg-country="PE" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f1539aa6379bb690624231f4aadbd62d.png" group-title="Music",Antares TV
+https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/chunklist_w97878203.m3u8
