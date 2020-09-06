@@ -123,3 +123,5 @@ https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:0 tvg-country="PE" tvg-logo="https://www.nicepng.com/png/full/206-2060818_logo-top-latino-png-top-latino-tv-logo.png" group-title="Music Videos",Top Latino TV
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w1195540849.m3u8
 
+#EXTINF:0 tvg-country="PE" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600010652013/WC6K4uwH6l9fi_UIh8czZwN3t6gDhKbzaPt29Pg_DpQgzZC290xV9JjeDcXHlYTl0GY=s300?v=1" group-title="Music Videos",Turbo Mix TV
+http://167.114.116.212:1935/tvmb/turbomix/chunklist_w726711575.m3u8
