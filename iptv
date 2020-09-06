@@ -46,7 +46,7 @@ http://167.114.116.212:1935/tvmb/turbomix/chunklist_w726711575.m3u8
 #EXTINF:0 tvg-country="PE" tvg-logo="https://i.ytimg.com/vi/U98AuOr2vkM/maxresdefault.jpg" group-title="TV",Mega TV Arequipa *
 https://cp.sradiotv.com:1936/Stream/Stream/chunklist_w1721793660.m3u8?checkedby:hlscat.com
 
-#EXTINF:0 tvg-country="PE" tvg-logo="http://tvtolive.com/wp-content/uploads/JN-19-tvtolive.com_.jpg" group-title="TV",JN  19 TV *
+#EXTINF:0 tvg-country="PE" tvg-logo="http://tvtolive.com/wp-content/uploads/JN-19-tvtolive.com_.jpg" group-title="TV",JN 19 TV *
 https://livestreamingperu.com:8081/diostv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-country="PE" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9b8197406117e6654ab034d1e2573108.png" group-title="Music",Vision TV Musica *
@@ -58,10 +58,11 @@ https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/chun
 #EXTINF:0 tvg-country="PE" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f1539aa6379bb690624231f4aadbd62d.png" group-title="Music",Antares TV *
 https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/chunklist_w97878203.m3u8
 
-#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/B89KuHO.png" group-title="Undefined",Pax TV
+#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/B89KuHO.png" group-title="Undefined",Pax TV *
 https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8?checkedby:hlscat.com
+
 #EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="Undefined",Cultura 24 TV
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8?checkedby:hlscat.com
 
-#EXTINF:0 tvg-country="PE" tvg-logo="https://logos.fandom.com/wiki/Willax_Televisi%C3%B3n/Ident?file=Willax_TV_logo_2015-2016_con_eslogan_2.png"News",Willax TV *
+#EXTINF:0 tvg-country="PE" tvg-logo="https://logos.fandom.com/wiki/Willax_Televisi%C3%B3n/Ident?file=Willax_TV_logo_2015-2016_con_eslogan_2.png" group-title="News",Willax TV *
 https://streannlive-lh.akamaihd.net/i/willaxtv_1@356238/index_1_av-p.m3u8?sd=10&dw=3600&set-segment-duration=smoothest&rebase=on&hdntl=exp=1599485217~acl=*~data=hdntl~hmac=6b8b028982d73119f3f1e2af91cff41fab1ad873823c51d33fcbd0d0f8b7fd87
