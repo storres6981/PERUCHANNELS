@@ -136,4 +136,4 @@ https://cp.sradiotv.com:1936/Stream/Stream/chunklist_w1721793660.m3u8
 https://livestreamingperu.com:8081/diostv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-country="PE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c2/Willax_TV_logo_2015-2016_con_eslogan_2.png" group-title="TV",Willax TV
-https://ott.streann.com/loadbalancer/services/public/vod-secure/5e1fda2f2cdc9b6baa1e1eea/playlist.m3u8
+https://streann2-vh.akamaihd.net/i/willax/Bloqueo.mp4/master.m3u8?customtoken=a9a9c9c2-ef6f-4890-92e0-7052a101a069&hdnts=exp=1599359274~acl=*~hmac=7c4e76307f5a731da9fda39f0c985ed4f34f1fb83e39635b8ae2dc481d850be9&AkamaiAnalytics_debug=1&set-segment-duration=smoothest&resellerId=5df509ee2cdcce6ed6601bfe
