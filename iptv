@@ -13,7 +13,7 @@ http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/7200.m3u8?checkedby:hlsc
 #EXTINF:0 tvg-country="PE" tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="Undefined",BHTV
 http://2hardteck.com:25461/091069478a/vke1ZMk4xz/56299?checkedby:hlscat.com
 
-#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="Undefined",BHtv
+#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="Undefined",BHtv *
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8?checkedby:hlscat.com
 
 #EXTINF:0 tvg-country="PE" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Bethel-Televisi%C3%B3n-en-vivo-Online.png" group-title="Undefined",Bethel TV *
