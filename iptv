@@ -8,10 +8,7 @@ https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/chunklist_b1024000.m
 https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk5NDQ1MjI4LCJzZXNzaW9uIjoiOTEuMTQyLjIxMy4xMDkiLCJ3aGl0ZWxpc3QiOlsiOTEuMTQyLjIxMy4xMDkiXX0sInNpZ25hdHVyZSI6IjU4ZGY2MjExOTRkMzkyZjdjZjgxZDIyZjE1OTUyNzQzNzI0NjY0OWQifQ==
 
 #EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/5j8Jupe.jpg" group-title="Undefined",América TV HD
-http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/7200.m3u8?checkedby:hlscat.com
 
-#EXTINF:0 tvg-country="PE" tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="Undefined",BHTV
-http://2hardteck.com:25461/091069478a/vke1ZMk4xz/56299?checkedby:hlscat.com
 
 #EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="Undefined",BHtv *
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8?checkedby:hlscat.com
@@ -24,9 +21,6 @@ https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 
 #EXTINF:0 tvg-country="PE" tvg-logo="https://www.freeetv.com/images/reydddd/flat.png" group-title="Undefined",Frecuencia Latina *
 https://live-normal-internacional-hls.latina.pe/egress/bhandler/cialatina/live/chunklist_b2179072.m3u8?nva=1607172839&ttl=432000&ip=152.174.202.130&hash=00504df5ecf2357ffaae2
-
-#EXTINF:0 tvg-country="PE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSinT4eMiDkTlI03qQ3efSKv0sEEwETKlDWKg&usqp=CAU" group-title="Undefined",Hipodromo Monterrico HD *
-http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/1545.m3u8?checkedby:hlscat.com
 
 #EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/FI1Hd4E.png" group-title="Undefined",IPE *
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?checkedby:hlscat.com
@@ -63,3 +57,8 @@ https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/chun
 
 #EXTINF:0 tvg-country="PE" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f1539aa6379bb690624231f4aadbd62d.png" group-title="Music",Antares TV *
 https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/chunklist_w97878203.m3u8
+
+#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/B89KuHO.png" group-title="Undefined",Pax TV
+https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="Undefined",Cultura 24 TV
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8?checkedby:hlscat.com
