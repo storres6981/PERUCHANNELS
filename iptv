@@ -7,8 +7,8 @@ http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/11368.m3u8?checkedby:hls
 #EXTINF:0 tvg-country="PE" tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="TV & News",ATV +
 https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk5NDQ0NjgyLCJzZXNzaW9uIjoiNzEuMTg3LjQ4LjI1Iiwid2hpdGVsaXN0IjpbIjcxLjE4Ny40OC4yNSJdfSwic2lnbmF0dXJlIjoiMGQzZDY0NjQ3ZGY2MGYxOWRkMGM2MWUwYWQ0YWFlY2IwYTkyMmY3YiJ9
 
-#EXTINF:0 tvg-country="PE" tvg-logo="https://w7.pngwing.com/pngs/809/82/png-transparent-atv-wikimedia-commons-television-channel-movistar-tv-1999-television-text-logo.png" group-title="Undefined",ATV
-http://ipvideo.online:2082/live/TvLatinoPs/2020/53847.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PE" tvg-logo="https://w7.pngwing.com/pngs/809/82/png-transparent-atv-wikimedia-commons-television-channel-movistar-tv-1999-television-text-logo.png" group-title="TV",ATV
+https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk5NDQ1MjI4LCJzZXNzaW9uIjoiOTEuMTQyLjIxMy4xMDkiLCJ3aGl0ZWxpc3QiOlsiOTEuMTQyLjIxMy4xMDkiXX0sInNpZ25hdHVyZSI6IjU4ZGY2MjExOTRkMzkyZjdjZjgxZDIyZjE1OTUyNzQzNzI0NjY0OWQifQ==
 
 #EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/5j8Jupe.jpg" group-title="Undefined",América TV HD
 http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/7200.m3u8?checkedby:hlscat.com
