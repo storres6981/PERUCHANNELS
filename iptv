@@ -5,10 +5,10 @@
 https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk5NDQ0NjgyLCJzZXNzaW9uIjoiNzEuMTg3LjQ4LjI1Iiwid2hpdGVsaXN0IjpbIjcxLjE4Ny40OC4yNSJdfSwic2lnbmF0dXJlIjoiMGQzZDY0NjQ3ZGY2MGYxOWRkMGM2MWUwYWQ0YWFlY2IwYTkyMmY3YiJ9
 
 #EXTINF:0 tvg-country="PE" tvg-logo="https://w7.pngwing.com/pngs/809/82/png-transparent-atv-wikimedia-commons-television-channel-movistar-tv-1999-television-text-logo.png" group-title="TV",ATV
-https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk5NDQ1MjI4LCJzZXNzaW9uIjoiOTEuMTQyLjIxMy4xMDkiLCJ3aGl0ZWxpc3QiOlsiOTEuMTQyLjIxMy4xMDkiXX0sInNpZ25hdHVyZSI6IjU4ZGY2MjExOTRkMzkyZjdjZjgxZDIyZjE1OTUyNzQzNzI0NjY0OWQifQ==
+http://uruguayiptv.com:25461/6688/6688/70321
 
 #EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/5j8Jupe.jpg" group-title="Undefined",América TV HD
-http://extremo.dyndns.ws:25461/live/lety/lety/3360.ts
+http://uruguayiptv.com:25461/6688/6688/70298
 
 #EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="Undefined",BHtv *
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8?checkedby:hlscat.com
@@ -65,6 +65,47 @@ https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8?check
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8?checkedby:hlscat.com
 
 #EXTINF:0 tvg-country="PE" tvg-logo="https://logos.fandom.com/wiki/Willax_Televisi%C3%B3n/Ident?file=Willax_TV_logo_2015-2016_con_eslogan_2.png" group-title="News",Willax TV *
+http://uruguayiptv.com:25461/6688/6688/70296
+
+#EXTINF:-1 tvg-id="" tvg-name="PERU: KARIBEÑA TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJxMYPtGNHAGkBCiehLpm50nLZHsm6FlLuj9h0K75g=s100-c-k-c0xffffffff-no-rj-mo" group-title="TV",KARIBEÑA TV
+http://uruguayiptv.com:25461/6688/6688/70295
+
+#EXTINF:0 tvg-country="PE" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="Sports",Gol Peru HD
+http://uruguayiptv.com:25461/6688/6688/66395
+
+#EXTINF:0 tvg-country="PE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Global_2010.svg/revision/latest/scale-to-width-down/340?cb=20200124172136" group-title="TV",Global
+http://uruguayiptv.com:25461/6688/6688/56294
+
+#EXTINF:-1 tvg-id="pe" tvg-name="PERU | RPP" tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/938_1.png" group-title="PERU",PERU | RPP
+http://uruguayiptv.com:25461/6688/6688/56301
+
+#EXTINF:-1 tvg-id="" tvg-name="PERU | CANAL N S1" tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/939_1.png" group-title="PERU",PERU | CANAL N S1
+http://uruguayiptv.com:25461/6688/6688/56302
+
+#EXTINF:-1 tvg-id="" tvg-name="PERU | PERU MAGICO" tvg-logo="https://server2.tvmia.com:443/images/canales/1/JW/908_1.png" group-title="PERU",PERU | PERU MAGICO
+http://uruguayiptv.com:25461/6688/6688/56296
+
+#EXTINF:-1 tvg-id="" tvg-name="PERU | MOVISTAR DEPORTES " tvg-logo="" group-title="PERU",PERU | MOVISTAR DEPORTES 
+http://uruguayiptv.com:25461/6688/6688/9222
+
+#EXTINF:-1 tvg-id="" tvg-name="PERU: LA TELE" tvg-logo="" group-title="PERU",PERU: LA TELE
+http://uruguayiptv.com:25461/6688/6688/70297
+
+#EXTINF:-1 tvg-id="goltv.pe" tvg-name="PERU | GOL PERU SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/goltv_latinoamerica.png" group-title="PERU",PERU | GOL PERU SD
+http://uruguayiptv.com:25461/6688/6688/11433
+
+#EXTINF:-1 tvg-id="" tvg-name="MIX: CUMBIA PERUANA DEL RECUERDO" tvg-logo="" group-title="PERU",MIX: CUMBIA PERUANA DEL RECUERDO
+http://uruguayiptv.com:25461/6688/6688/70308
+
+#EXTINF:-1 tvg-id="" tvg-name="PERU | LATINA HD S1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo-latina-noticias.png" group-title="PERU",PERU | LATINA HD S1
+http://uruguayiptv.com:25461/6688/6688/66394
+
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV PERU" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/goltv_latinoamerica.png" group-title="DEPORTIVOS",GOL TV PERU
+http://uruguayiptv.com:25461/6688/6688/441
+
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES PERU" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CPDEP.png" group-title="DEPORTIVOS",MOVISTAR DEPORTES PERU
+http://uruguayiptv.com:25461/6688/6688/1410
+
 
 
 ####################################################################################################################################
