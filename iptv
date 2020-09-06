@@ -20,7 +20,7 @@ http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/11370.m3u8?checkedby:hls
 https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 
 #EXTINF:0 tvg-country="PE" tvg-logo="https://www.freeetv.com/images/reydddd/flat.png" group-title="Undefined",Frecuencia Latina *
-https://live-normal-internacional-hls.latina.pe/egress/bhandler/cialatina/live/chunklist_b2179072.m3u8?nva=1607172839&ttl=432000&ip=152.174.202.130&hash=00504df5ecf2357ffaae2
+https://live-normal-internacional-hls.latina.pe/egress/bhandler/cialatina/live/manifest.m3u8?nva=1607189516&ttl=432000&ip=71.187.48.25&hash=04cb410c909db69ad3d9e
 
 #EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/FI1Hd4E.png" group-title="Undefined",IPE *
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?checkedby:hlscat.com
