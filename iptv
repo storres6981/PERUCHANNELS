@@ -65,7 +65,7 @@ https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8?check
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8?checkedby:hlscat.com
 
 #EXTINF:0 tvg-country="PE" tvg-logo="https://logos.fandom.com/wiki/Willax_Televisi%C3%B3n/Ident?file=Willax_TV_logo_2015-2016_con_eslogan_2.png" group-title="News",Willax TV *
-https://streannlive-lh.akamaihd.net/i/willaxtv_1@356238/index_1_av-p.m3u8?sd=10&dw=3600&set-segment-duration=smoothest&rebase=on&hdntl=exp=1599485217~acl=*~data=hdntl~hmac=6b8b028982d73119f3f1e2af91cff41fab1ad873823c51d33fcbd0d0f8b7fd87
+https://streannlive-lh.akamaihd.net/i/willaxtv_1@356238/index_1_av-p.m3u8
 
 ####################################################################################################################################
 USA Channels
