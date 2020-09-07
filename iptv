@@ -62,7 +62,7 @@ https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8?check
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8?checkedby:hlscat.com
 
 #EXTINF:0 tvg-country="PE" tvg-logo="https://logos.fandom.com/wiki/Willax_Televisi%C3%B3n/Ident?file=Willax_TV_logo_2015-2016_con_eslogan_2.png" group-title="News",Willax TV Not Working
-http://tvpremiumhd.club/lista-gratuita/183006/on/live.php?id=movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="PERU: KARIBEÑA TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJxMYPtGNHAGkBCiehLpm50nLZHsm6FlLuj9h0K75g=s100-c-k-c0xffffffff-no-rj-mo" group-title="TV",KARIBEÑA TV
 http://uruguayiptv.com:25461/6688/6688/70295
@@ -97,9 +97,6 @@ http://elmasteriptv.com:8000/djturbomix49@gmail.com/sDMwj2WpBM/20775
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES PERU" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CPDEP.png" group-title="DEPORTIVOS",MOVISTAR DEPORTES PERU
 http://uruguayiptv.com:25461/6688/6688/1410
 
-#EXTINF:-1 tvg-id="CapitalTV.pe" tvg-name="PER-Capital TV" tvg-logo="https://1.bp.blogspot.com/-jlBQW3VMHDg/Xw_BnQfFA2I/AAAAAAAAAZw/zt-Zh3m97PoNwOK2zPTCyvDhkZd59-OAQCLcBGAsYHQ/w200-h200/Capital%2BTV%2BPeru.png" group-title="PERU",Capital TV
-
-
 ####################################################################################################################################
 USA Channels
 ####################################################################################################################################
@@ -116,14 +113,9 @@ http://uruguayiptv.com:25461/6688/6688/761
 #EXTINF:0 tvg-country="USA" tvg-logo="https://pbs.twimg.com/profile_images/1090017478888079361/f0-ePeRX.jpg" group-title="TV",Univision
 http://elmasteriptv.com:8000/djturbomix49@gmail.com/sDMwj2WpBM/16012
 
-#EXTINF:-1 tvg-id="" tvg-name="LA_US_FHD:Univision Dallas HD" tvg-logo="https://pbs.twimg.com/profile_images/1090017478888079361/f0-ePeRX.jpg" group-title="LATINOS EN USA",LA_US_FHD:Univision Dallas HD
+#EXTINF:-1 tvg-id="" tvg-name="LA_US_FHD:Univision Dallas HD" tvg-logo="https://pbs.twimg.com/profile_images/1090017478888079361/f0-ePeRX.jpg" group-title="News",Univision Dallas HD
 http://elmasteriptv.com:8000/djturbomix49@gmail.com/sDMwj2WpBM/16013
 
-#EXTINF:0 tvg-country="USA" tvg-logo="https://pbs.twimg.com/profile_images/969311694790021120/AhXbomVG_400x400.jpg" group-title="TV",DirecTV Sports
-https://ul.cdn946.net:8443/hls/e22ikhoklfgl5zn.m3u8?s=YflmuJ53GfBpKa6b9khEVg&e=1599431706
-
-#EXTINF:0 tvg-country="USA" tvg-logo="https://espnpressroom.com/us/files/2016/03/RS1129_ESPN_Deportes_CLR_Pos-scr-1-850x610.jpg" group-title="TV",ESPN
-https://ul.cdn946.net:8443/hls/oeokyx3g946nz.m3u8?s=Sc1nE_E9BSlKPxhhmhTsAA&e=1599431803
 
 
 ######################################################################################################################################
