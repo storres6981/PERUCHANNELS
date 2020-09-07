@@ -13,9 +13,6 @@ http://uruguayiptv.com:25461/6688/6688/70298
 #EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="Undefined",BHtv *
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8?checkedby:hlscat.com
 
-#EXTINF:0 tvg-country="PE" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Bethel-Televisi%C3%B3n-en-vivo-Online.png" group-title="Undefined",Bethel TV *
-http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/11370.m3u8?checkedby:hlscat.com
-
 #EXTINF:0 tvg-country="PE" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2020/01/EXITOSA-LOGO-CON-EFECTO.png" group-title="Undefined",EXITOSA HD *
 https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 
@@ -70,9 +67,6 @@ http://tvpremiumhd.club/lista-gratuita/183006/on/live.php?id=movil.mediastream.p
 #EXTINF:-1 tvg-id="" tvg-name="PERU: KARIBEÑA TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJxMYPtGNHAGkBCiehLpm50nLZHsm6FlLuj9h0K75g=s100-c-k-c0xffffffff-no-rj-mo" group-title="TV",KARIBEÑA TV
 http://uruguayiptv.com:25461/6688/6688/70295
 
-#EXTINF:0 tvg-country="PE" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="Sports",Gol Peru HD
-http://uruguayiptv.com:25461/6688/6688/66395
-
 #EXTINF:0 tvg-country="PE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Global_2010.svg/revision/latest/scale-to-width-down/340?cb=20200124172136" group-title="TV",Global
 http://uruguayiptv.com:25461/6688/6688/56294
 
@@ -91,9 +85,6 @@ http://uruguayiptv.com:25461/6688/6688/9222
 #EXTINF:-1 tvg-id="" tvg-name="PERU: LA TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/La_tele_peru_2020.png/1200px-La_tele_peru_2020.png" group-title="PERU",LA TELE
 http://uruguayiptv.com:25461/6688/6688/70297
 
-#EXTINF:-1 tvg-id="goltv.pe" tvg-name="PERU | GOL PERU SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/goltv_latinoamerica.png" group-title="PERU",GOL PERU SD
-http://uruguayiptv.com:25461/6688/6688/11433
-
 #EXTINF:-1 tvg-id="" tvg-name="MIX: CUMBIA PERUANA DEL RECUERDO" tvg-logo="https://i.ytimg.com/vi/-GT2Dp62-Cc/sddefault.jpg" group-title="PERU",CUMBIA PERUANA DEL RECUERDO
 http://uruguayiptv.com:25461/6688/6688/70308
 
@@ -101,10 +92,17 @@ http://uruguayiptv.com:25461/6688/6688/70308
 http://uruguayiptv.com:25461/6688/6688/66394
 
 #EXTINF:-1 tvg-id="" tvg-name="GOL TV PERU" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/goltv_latinoamerica.png" group-title="DEPORTIVOS",GOL TV PERU
-http://uruguayiptv.com:25461/6688/6688/441
+http://elmasteriptv.com:8000/djturbomix49@gmail.com/sDMwj2WpBM/20775
 
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES PERU" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CPDEP.png" group-title="DEPORTIVOS",MOVISTAR DEPORTES PERU
 http://uruguayiptv.com:25461/6688/6688/1410
+
+#EXTINF:-1 tvg-id="CapitalTV.pe" tvg-name="PER-Capital TV" tvg-logo="https://1.bp.blogspot.com/-jlBQW3VMHDg/Xw_BnQfFA2I/AAAAAAAAAZw/zt-Zh3m97PoNwOK2zPTCyvDhkZd59-OAQCLcBGAsYHQ/w200-h200/Capital%2BTV%2BPeru.png" group-title="PERU",Capital TV
+
+
+####################################################################################################################################
+USA Channels
+####################################################################################################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="Univision Telenovelas HD" tvg-logo="data:image/jpeg;base64,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" group-title="TELENOVELAS",Univision Telenovelas HD
 http://uruguayiptv.com:25461/6688/6688/765
@@ -115,20 +113,11 @@ http://uruguayiptv.com:25461/6688/6688/762
 #EXTINF:-1 tvg-id="I1.24519.schedulesdirect.org" tvg-name="Telemundo HD" tvg-logo="https://pbs.twimg.com/profile_images/1017836658765557761/wht-z0SQ.jpg" group-title="TELENOVELAS",Telemundo HD
 http://uruguayiptv.com:25461/6688/6688/761
 
-#EXTINF:-1 tvg-id="CapitalTV.pe" tvg-name="PER-Capital TV" tvg-logo="https://1.bp.blogspot.com/-jlBQW3VMHDg/Xw_BnQfFA2I/AAAAAAAAAZw/zt-Zh3m97PoNwOK2zPTCyvDhkZd59-OAQCLcBGAsYHQ/w200-h200/Capital%2BTV%2BPeru.png" group-title="PERU",Capital TV
-http://tvpremiumhd.club/lista-gratuita/183006/tv/live.php?id=31436
-
-
-
-####################################################################################################################################
-USA Channels
-####################################################################################################################################
-
-#EXTINF:0 tvg-country="USA" tvg-logo="https://master.d2gnmmimbvzgnk.amplifyapp.com/static/media/default-img-220x226.82bd4212.png" group-title="TV",Telemundo
-http://ul.cdn946.net:8080/hls/ebc3wsw.m3u8?s=Hniu7qY39AsthWNXF1cT-w&e=1599431338
-
 #EXTINF:0 tvg-country="USA" tvg-logo="https://pbs.twimg.com/profile_images/1090017478888079361/f0-ePeRX.jpg" group-title="TV",Univision
 http://elmasteriptv.com:8000/djturbomix49@gmail.com/sDMwj2WpBM/16012
+
+#EXTINF:-1 tvg-id="" tvg-name="LA_US_FHD:Univision Dallas HD" tvg-logo="https://pbs.twimg.com/profile_images/1090017478888079361/f0-ePeRX.jpg" group-title="LATINOS EN USA",LA_US_FHD:Univision Dallas HD
+http://elmasteriptv.com:8000/djturbomix49@gmail.com/sDMwj2WpBM/16013
 
 #EXTINF:0 tvg-country="USA" tvg-logo="https://pbs.twimg.com/profile_images/969311694790021120/AhXbomVG_400x400.jpg" group-title="TV",DirecTV Sports
 https://ul.cdn946.net:8443/hls/e22ikhoklfgl5zn.m3u8?s=YflmuJ53GfBpKa6b9khEVg&e=1599431706
