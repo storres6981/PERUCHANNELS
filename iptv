@@ -16,9 +16,6 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8?checkedby:
 #EXTINF:0 tvg-country="PE" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2020/01/EXITOSA-LOGO-CON-EFECTO.png" group-title="Undefined",EXITOSA HD *
 https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 
-#EXTINF:0 tvg-country="PE" tvg-logo="https://www.freeetv.com/images/reydddd/flat.png" group-title="Undefined",Frecuencia Latina *
-https://live-normal-internacional-hls.latina.pe/egress/bhandler/cialatina/live/manifest.m3u8?nva=1607189516&ttl=432000&ip=71.187.48.25&hash=04cb410c909db69ad3d9e
-
 #EXTINF:0 tvg-country="PE" tvg-logo="https://i.imgur.com/FI1Hd4E.png" group-title="Undefined",IPE *
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?checkedby:hlscat.com
 
@@ -83,7 +80,7 @@ http://uruguayiptv.com:25461/6688/6688/56296
 http://uruguayiptv.com:25461/6688/6688/9222
 
 #EXTINF:-1 tvg-id="" tvg-name="PERU: LA TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/La_tele_peru_2020.png/1200px-La_tele_peru_2020.png" group-title="PERU",LA TELE
-http://uruguayiptv.com:25461/6688/6688/70297
+http://uruguayiptv.com:25461/6688/6688/11168
 
 #EXTINF:-1 tvg-id="" tvg-name="MIX: CUMBIA PERUANA DEL RECUERDO" tvg-logo="https://i.ytimg.com/vi/-GT2Dp62-Cc/sddefault.jpg" group-title="PERU",CUMBIA PERUANA DEL RECUERDO
 http://uruguayiptv.com:25461/6688/6688/70308
